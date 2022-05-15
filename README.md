@@ -18,6 +18,11 @@ References:
    python -m build
    ```
 
+## How to install
+```
+pip install -e .
+```
+install your project by this  before using pytest
 
 ## How to run test
 1. Install pytest
